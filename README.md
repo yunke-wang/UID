@@ -1,6 +1,6 @@
 # Unlabeled Imperfect Demonstrations in Adversarial Imitation Learning
 
-This repository contains the PyTorch code for the paper "Unlabeled Imperfect Demonstrations in Adversarial Imitation Learning" in AAAI 2023. [Paper][Appendix]
+This repository contains the PyTorch code for the paper "Unlabeled Imperfect Demonstrations in Adversarial Imitation Learning" in AAAI 2023. [[Paper]](https://arxiv.org/pdf/2302.06271.pdf)[Appendix]
 
 ## Requirements
 Experiments were run with Python 3.6 and these packages:
