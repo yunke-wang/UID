@@ -38,6 +38,16 @@ For other compared methods, the re-implementation of [T-REX/D-REX](https://dsbro
 ## Contact
 For any questions, please feel free to contact me. (Email: yunke.wang@whu.edu.cn)
 
+## Citation
+```
+@article{wang2023unlabeled,
+  title={Unlabeled Imperfect Demonstrations in Adversarial Imitation Learning},
+  author={Wang, Yunke and Du, Bo and Xu, Chang},
+  journal={arXiv preprint arXiv:2302.06271},
+  year={2023}
+}
+```
+
 ## Reference
 [1] Generative adversarial imitation learning. NeurIPS 2016.
 
