@@ -40,10 +40,13 @@ For any questions, please feel free to contact me. (Email: yunke.wang@whu.edu.cn
 
 ## Citation
 ```
-@article{wang2023unlabeled,
-  title={Unlabeled Imperfect Demonstrations in Adversarial Imitation Learning},
+@inproceedings{wang2023unlabeled,
+  title={Unlabeled imperfect demonstrations in adversarial imitation learning},
   author={Wang, Yunke and Du, Bo and Xu, Chang},
-  journal={arXiv preprint arXiv:2302.06271},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={37},
+  number={8},
+  pages={10262--10270},
   year={2023}
 }
 ```
